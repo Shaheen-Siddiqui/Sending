@@ -103,7 +103,7 @@ const Checkout = () => {
 
           </tbody>
         </table>
-        <h2>Order summary</h2>
+        <h2>Orderes summary</h2>
         <p>Discount: $ </p>
         <p>Total: $ </p>
       </main>
